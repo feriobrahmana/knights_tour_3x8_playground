@@ -18,4 +18,4 @@ Taruh bidak kuda di salah satu kotak di papan catur tersebut.
 
 Apakah ada kotak sedemikian sehingga bidak kuda bisa mengunjungi semua kotak di papan itu tepat hanya sekali?
 
-The solution will be able to be seen at 
+***The solution will be able to be seen at Chess_Knight_Problem.ipynb***
